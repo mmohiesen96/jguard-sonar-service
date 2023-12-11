@@ -1,0 +1,3 @@
+config:
+  sonarQube:
+    url: http://localhost:9000
